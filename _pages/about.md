@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+As an Industrial Engineer, I bridge applied mathematics with high-impact real-world problems. My research focuses on identifying the appropriate analytical approach for each challenge and developing new methods when existing ones fall short.
+
+I specialize in applying operations research (OR) to tackle  societal issues while advancing the theoretical foundations that make this work possible. Through  quantitative analysis, I provide decision-makers with both descriptive and prescriptive insights—evidence that drive better operational processes, organizational strategies, and measurable outcomes.
+
+In recent years, my work has centered on expanding access to critical services for vulnerable populations through optimization models that balance community needs with economic realities. My research portfolio includes evaluating anti-human trafficking initiatives, from understanding online recruitment techniques of refugees to assessing service capacity for at-risk runaway and homeless youth and measuring the effectiveness of awareness campaigns. I am also working on an exiting project to allocate resources to prevent illicit wildlife trafficking. I've also worked on computational projects that reconstruct patterns of care from health insurance claims and improve patient access to mental health and primary care services.
+
+Feel free to explore the site to learn more about me,  my research, and teaching.
+
+#This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
