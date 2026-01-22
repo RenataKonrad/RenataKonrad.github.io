@@ -1,5 +1,7 @@
 ---
 #front matter - this is between the three hyphens
+# Go to markdownGuide.com to find out how to do things like bold, lists Start with the cheat sheet
+
 layout: about
 title: about
 permalink: /
@@ -7,7 +9,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_Pic_RK.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
