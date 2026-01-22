@@ -1,4 +1,5 @@
 ---
+#front matter - this is between the three hyphens
 layout: about
 title: about
 permalink: /
@@ -26,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Make changes in a copy of Main: https://docs.github.com/en/get-started/start-your-journey/hello-world
+
 I am an Industrial Engineer (IE) who sees my profession as fundamentally about improving lives, industries, and communities. Industrial Engineers seek to improve quality, resiliency and efficiency of opperations and systems, while reducing costs and waste.
 
 As a Professor of Operations and Industrial Engineering at [Worcester Polytechnic Institute] (https://www.wpi.edu/), I have three main roles: research, teaching, and service.
